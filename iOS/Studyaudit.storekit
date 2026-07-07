@@ -1,0 +1,29 @@
+{
+  "identifier": "MASTER",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "6.99",
+      "familyShareable": false,
+      "internalID": "studyaudit_pro",
+      "localizations": [
+        {
+          "description": "Multi-week variance chart",
+          "displayName": "Studyaudit Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "studyaudit_pro",
+      "referenceName": "Studyaudit Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_locale": "en_US"
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
